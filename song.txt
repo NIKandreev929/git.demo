@@ -1,8 +1,15 @@
 song 2
 try lala
+<<<<<<< HEAD
 i learn some new
 
 
 dfsdfsdf
 asfdasfd
 asfdsf
+=======
+i learn some new 
+
+create 2 lineses
+this is second line
+>>>>>>> 17ab8267b47e2e4cc1a2587fddd3d0c97b43c7de
